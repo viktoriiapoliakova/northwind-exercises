@@ -1,2 +1,1 @@
-# northwind-exercises
-SQL Queries using Northwind database
+Exploring the famous Northwind database with 10 SQL queries.
